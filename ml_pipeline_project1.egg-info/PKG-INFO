@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ml_pipeline_project1
+Version: 0.1.0
+Summary: A machine learning pipeline project
+Author: Raghav
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: flask
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

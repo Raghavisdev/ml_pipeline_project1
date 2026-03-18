@@ -1,0 +1,5 @@
+[2026-03-18 19:59:08,369] - 97 - werkzeug - WARNING -  * Debugger is active!
+[2026-03-18 19:59:08,374] - 97 - werkzeug - INFO -  * Debugger PIN: 129-342-441
+[2026-03-18 19:59:27,891] - 8 - root - INFO - Index route accessed.
+[2026-03-18 19:59:27,891] - 97 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2026 19:59:27] "GET / HTTP/1.1" 200 -
+[2026-03-18 20:01:49,579] - 97 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ragha\\ml_pipeline_project1\\src\\exception.py', reloading

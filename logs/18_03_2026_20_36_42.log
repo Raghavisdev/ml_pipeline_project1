@@ -1,0 +1,5 @@
+[2026-03-18 20:36:42,087] - 97 - werkzeug - WARNING -  * Debugger is active!
+[2026-03-18 20:36:42,094] - 97 - werkzeug - INFO -  * Debugger PIN: 129-342-441
+[2026-03-18 20:36:48,215] - 14 - root - INFO - Error occurred in script: [C:\Users\ragha\ml_pipeline_project1\app.py] at line number: [11] error message: [This is a test exception]
+[2026-03-18 20:36:48,215] - 97 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2026 20:36:48] "GET / HTTP/1.1" 200 -
+[2026-03-18 20:36:48,285] - 97 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2026 20:36:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
