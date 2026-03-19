@@ -1,0 +1,4 @@
+[2026-03-18 22:10:02,084] - 21 - root - INFO - Data ingestion started
+[2026-03-18 22:10:02,211] - 26 - root - INFO - Raw data saved successfully.
+[2026-03-18 22:10:02,219] - 29 - root - INFO - Data split into train and test sets successfully.
+[2026-03-18 22:10:02,292] - 34 - root - INFO - Data ingestion completed successfully.
