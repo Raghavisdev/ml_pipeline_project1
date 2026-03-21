@@ -86,7 +86,7 @@ class DataTransformation:
             )
 
             print("Preprocessor saved")
-            logging.info("Preprocessor Saved")
+            logging.info("Preprocessor")
 
             return train_arr, test_arr, self.data_transformation_config.preprocessor_obj_file_path
 
