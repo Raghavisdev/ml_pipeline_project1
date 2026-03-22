@@ -30,7 +30,7 @@ class ModelTrainer:
                 test_arr[:,:-1],
                 test_arr[:,-1]
             )
-
+        
 
 
         except Exception as e:
