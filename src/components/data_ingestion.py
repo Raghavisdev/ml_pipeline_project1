@@ -7,6 +7,7 @@ from dataclasses import dataclass
 from sklearn.model_selection import train_test_split
 from src.components.data_transformation import DataTransformation
 
+@dataclass
 class DataIngestionConfig:
     train_data_path = os.path.join("artifacts/data_ingestion", "train.csv")
     test_data_path = os.path.join("artifacts/data_ingestion", "test.csv")

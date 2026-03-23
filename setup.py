@@ -12,7 +12,7 @@ def get_requirements(file_path: str) -> List[str]:
     return requirements
 
 setup(
-    name="ml_pipeline_project1",
+    name="PYTHON_PBL",
     version="0.1.0",
     author="Raghav",
     description="A machine learning pipeline project",
